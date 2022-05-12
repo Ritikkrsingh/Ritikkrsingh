@@ -1,0 +1,28 @@
+
+#  upload berthing report :
+1. if in case file is empty its shows error 
+2. ALL the files in csv if the  another format file is upload  its shows error
+
+# upload nor.py
+1. in case file is empty  its shows error 
+2. ALL the files in csv if the  another format file is upload  its shows error
+
+# upload sof.py
+1. in case file is empty  its shows error 
+2. ALL the files in csv if the  another format file is upload  its shows error
+
+# upload vessel hire.py
+1. in case file is empty  its shows error
+2. ALL the files in csv if the  another format file is upload  its shows error
+
+# vessel position .py
+1. in case file is empty  its shows error
+2. ALL the files in csv if the  another format file is upload  its shows error
+
+#evacuation.py
+1. in case of evacuation_sap gets wrong file except json so its shows error .
+
+# tonnage demand 
+1. tonnage base table loader  
+1>> in tonnage_for_poldemand if the  wrong format file will be uploaded  then its shows error .
+
